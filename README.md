@@ -1,1 +1,3 @@
 # The_Sparks_Foundation
+
+This repository contains the works I have done during my Data Science Internship.
